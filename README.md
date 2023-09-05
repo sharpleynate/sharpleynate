@@ -54,11 +54,7 @@ I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work toward
 
 <details>
  <summary><h3>👨‍💻 Nate's Journey</h3></summary>
-Growing up in Long Beach, California, I encountered various challenges due to my family's frequent moves and my single mother's financial struggles. However, amidst these challenges, I discovered my passion for technology through computers and PC gaming. This passion has paved the way for my future as a Cloud Security Engineer, specializing in the world of Cloud Computing.
-
-As I matured, my fascination with technology evolved into a deep love for cybersecurity. To me, knowledge is a superpower; understanding the future and being able to anticipate it grants us control over our destinies. This intrinsic curiosity and my willingness to push boundaries have been driving forces in my life for as long as I can remember.
-
-Today, I'm a dedicated Cloud Computing & Cybersecurity student with a strong foundation in IT and software. I am actively seeking opportunities with companies that offer growth potential and allow me to apply my skills and expertise. I am enthusiastic about connecting with like-minded individuals who can assist me in advancing my career and making a meaningful impact in the realm of cybersecurity within the field of Cloud Computing.
+Growing up in Long Beach, California, I encountered various challenges due to my family's frequent moves and my single mother's financial struggles. However, amidst these challenges, I discovered my passion for technology through computers and PC gaming. This passion has paved the way for my future as a Cloud Security Engineer, specializing in the world of Cloud Computing. As I matured, my fascination with technology evolved into a deep love for cybersecurity. To me, knowledge is a superpower; understanding the future and being able to anticipate it grants us control over our destinies. This intrinsic curiosity and my willingness to push boundaries have been driving forces in my life for as long as I can remember. Today, I'm a dedicated Cloud Computing & Cybersecurity student with a strong foundation in IT and software. I am actively seeking opportunities with companies that offer growth potential and allow me to apply my skills and expertise. I am enthusiastic about connecting with like-minded individuals who can assist me in advancing my career and making a meaningful impact in the realm of cybersecurity within the field of Cloud Computing.
 
 [website]: https://sharpleynate.com
 [youtube]: https://youtube.com/sharpleynate
