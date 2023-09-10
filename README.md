@@ -1,4 +1,4 @@
-# 👨‍💻 sharpleynate
+# 👨‍💻 @sharpleynate
 
 **`Cloud Sentry (Future Cloud Security Engineer, Cloud Computing & Cybersecurity Major)`**
 
