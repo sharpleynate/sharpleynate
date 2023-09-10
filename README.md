@@ -1,8 +1,8 @@
 # 👨‍💻 @sharpleynate
 
-**`Cloud Sentry ( IT Helpdesk | Creator | Personal Trainer )`**
+**`Cloud Sentry ( Future Cloud Security Engineer | Cloud Computing & Cybersecurity Major )`**
 
-I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work towards becoming a Cloud Security Engineer, I also run a YouTube channel where I share tech tutorials and fitness shorts. On TikTok, I keep you updated on cybersecurity news and AI technology trends. Join me as I shape the digital world, one step at a time. "[ai.mentality][tiktok]"
+I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work towards becoming a Cloud Security Engineer, I also run a YouTube channel where I share tech tutorials and fitness shorts. On TikTok, I update you on cybersecurity news and AI technology trends. Join me as I shape the digital world, one step at a time. "[ai.mentality][tiktok]"
 
    <p align="left">
       <a href="https://www.youtube.com/@sharpleynate?sub_confirmation=1">
@@ -25,8 +25,7 @@ I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work toward
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
