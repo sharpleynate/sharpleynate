@@ -35,12 +35,7 @@ I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work toward
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CompTIA A+ | Study Session | Ep. 1](https://ytcards.demolab.com/?id=oRs1c9Dcv8o&title=CompTIA+A%2B+%7C+Study+Session+%7C+Ep.+1&lang=en&timestamp=1700935005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA A+ | Study Session | Ep. 1")](https://www.youtube.com/watch?v=oRs1c9Dcv8o)
-[![Create Your First Amazon S3 Bucket](https://ytcards.demolab.com/?id=bwsv5daylFc&title=Create+Your+First+Amazon+S3+Bucket&lang=en&timestamp=1699355520&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Create Your First Amazon S3 Bucket")](https://www.youtube.com/watch?v=bwsv5daylFc)
-[![Managing Instance Volumes Using EBS](https://ytcards.demolab.com/?id=5LosyGjJiIs&title=Managing+Instance+Volumes+Using+EBS&lang=en&timestamp=1699355052&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Managing Instance Volumes Using EBS")](https://www.youtube.com/watch?v=5LosyGjJiIs)
-[![Create Your First Amazon EC2 Instance (Windows)](https://ytcards.demolab.com/?id=pWOzlln1etg&title=Create+Your+First+Amazon+EC2+Instance+%28Windows%29&lang=en&timestamp=1699281711&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Create Your First Amazon EC2 Instance (Windows)")](https://www.youtube.com/watch?v=pWOzlln1etg)
-[![Securing your VPC using Public and Private Subnets](https://ytcards.demolab.com/?id=YHK9RTC8M6A&title=Securing+your+VPC+using+Public+and+Private+Subnets&lang=en&timestamp=1696775975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Securing your VPC using Public and Private Subnets")](https://www.youtube.com/watch?v=YHK9RTC8M6A)
-[![CompTIA Security + | Study Session | Ep. 11](https://ytcards.demolab.com/?id=4YpmCRVMpzE&title=CompTIA+Security+%2B+%7C+Study+Session+%7C+Ep.+11&lang=en&timestamp=1696592872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Security + | Study Session | Ep. 11")](https://www.youtube.com/watch?v=4YpmCRVMpzE)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://www.youtube.com/c/sharpleynate?sub_confirmation=1](https://www.youtube.com/channel/UCpus-LD3MmBeX48MvYUrndQ))
