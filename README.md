@@ -35,7 +35,12 @@ I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work toward
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Python | EP. 01 (NO SOUND)](https://ytcards.demolab.com/?id=RROUuvMh5QU&title=Python+%7C+EP.+01+%28NO+SOUND%29&lang=en&timestamp=1706490766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python | EP. 01 (NO SOUND)")](https://www.youtube.com/watch?v=RROUuvMh5QU)
+[![CompTIA A+ | Study Session | Ep. 6](https://ytcards.demolab.com/?id=zkQtyf8JFDY&title=CompTIA+A%2B+%7C+Study+Session+%7C+Ep.+6&lang=en&timestamp=1704995801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA A+ | Study Session | Ep. 6")](https://www.youtube.com/watch?v=zkQtyf8JFDY)
+[![CompTIA A+ | Study Session | Ep. 5](https://ytcards.demolab.com/?id=jHURkevvLNQ&title=CompTIA+A%2B+%7C+Study+Session+%7C+Ep.+5&lang=en&timestamp=1704833002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA A+ | Study Session | Ep. 5")](https://www.youtube.com/watch?v=jHURkevvLNQ)
+[![CompTIA A+ | Study Session | Ep. 4](https://ytcards.demolab.com/?id=35cuC2GSutg&title=CompTIA+A%2B+%7C+Study+Session+%7C+Ep.+4&lang=en&timestamp=1704303282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA A+ | Study Session | Ep. 4")](https://www.youtube.com/watch?v=35cuC2GSutg)
+[![Mind over Matter. #foryou #fyp #foryoupage #gym](https://ytcards.demolab.com/?id=F92VhbU8w04&title=Mind+over+Matter.+%23foryou+%23fyp+%23foryoupage+%23gym&lang=en&timestamp=1704246357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mind over Matter. #foryou #fyp #foryoupage #gym")](https://www.youtube.com/watch?v=F92VhbU8w04)
+[![CompTIA A+ | Study Session | Ep. 3](https://ytcards.demolab.com/?id=B4_VIHnKRPU&title=CompTIA+A%2B+%7C+Study+Session+%7C+Ep.+3&lang=en&timestamp=1704218124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA A+ | Study Session | Ep. 3")](https://www.youtube.com/watch?v=B4_VIHnKRPU)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://www.youtube.com/c/sharpleynate?sub_confirmation=1](https://www.youtube.com/channel/UCpus-LD3MmBeX48MvYUrndQ))
