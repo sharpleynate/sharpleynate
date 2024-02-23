@@ -2,7 +2,7 @@
 
 **`Cloud Sentry ( Future Cloud Security Engineer | Cloud Computing & Cybersecurity Major )`**
 
-I'm a future Cloud Security Engineer and a tech-savvy YouTuber. As I work towards becoming a Cloud Security Engineer, I also run a YouTube channel where I share tech tutorials and fitness shorts. On TikTok, I update you on cybersecurity news and AI technology trends. Join me as I shape the digital world, one step at a time. "[ai.mentality][tiktok]"
+I'm a future Security Engineer and a tech-savvy YouTuber. As I work towards becoming a Cloud Security Engineer, I also run a YouTube channel where I share tech tutorials and fitness shorts. On TikTok, I update you on cybersecurity news and AI technology trends. Join me as I shape the digital world, one step at a time. "[ai.mentality][tiktok]"
 
    <p align="left">
       <a href="https://www.youtube.com/@sharpleynate?sub_confirmation=1">
