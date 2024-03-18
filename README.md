@@ -1,6 +1,6 @@
 # 👨‍💻 @sharpleynate
 
-**`Cloud Sentry ( Future Cloud Security Engineer | Cloud Computing & Cybersecurity Major )`**
+**`Security Sentry ( Future Security Engineer | Cloud Computing & Cybersecurity Major )`**
 
 I'm a future Security Engineer, and I also run a YouTube channel where I share tech tutorials and fitness shorts. On TikTok, I update you on cybersecurity news and AI technology trends. Join me as I shape the digital world, one step at a time. "[ai.mentality][tiktok]"
 
