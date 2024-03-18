@@ -56,7 +56,7 @@ I'm a future Security Engineer, and I also run a YouTube channel where I share t
 #
 
 <details>
- <summary><h3>👨‍💻 My Journey</h3></summary>
+ <summary><h3>😄 My Journey</h3></summary>
 Growing up I encountered various challenges due to my family's frequent moves and my single mother's financial struggles. However, amidst these challenges, I discovered my passion for technology through computers and PC gaming. This passion has paved the way for my future as a Security Engineer. As I matured, my fascination with technology evolved into a deep love for cybersecurity. To me, knowledge is a superpower; understanding the future and being able to anticipate it grants us control over our destinies. This intrinsic curiosity and my willingness to push boundaries have been driving forces in my life for as long as I can remember. Today, I'm a dedicated Cybersecurity student with a strong foundation in IT and software. I am actively seeking opportunities with companies that offer growth potential and allow me to apply my skills and expertise. I am enthusiastic about connecting with like-minded individuals who can assist me in advancing my career and making a meaningful impact in the realm of cybersecurity.
 
 [website]: https://sharpleynate.com
