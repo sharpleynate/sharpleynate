@@ -1,8 +1,8 @@
 # 👨‍💻 @sharpleynate
 
-**`Security Sentry ( Future Security Engineer | Cybersecurity Undergrad )`**
+**`Cybersecurity Undergrad`**
 
-I'm a future Security Engineer, and I also run a YouTube channel where I share tech tutorials and fitness shorts. On TikTok, I update you on cybersecurity news and AI technology trends. Join me as I shape the digital world, one step at a time. "[ai.mentality][tiktok]"
+Find me on TikTok for the latest in cybersecurity news. "[ai.mentality][tiktok]"
 
    <p align="left">
       <a href="https://www.youtube.com/@sharpleynate?sub_confirmation=1">
