@@ -1,6 +1,6 @@
 # 👨‍💻 @sharpleynate
 
-**`Cybersecurity Undergrad`**
+**`Information Technology Undergrad`**
 
 Find me on TikTok for the latest in cybersecurity news. "[ai.mentality][tiktok]"
 
