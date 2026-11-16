@@ -1,57 +1,106 @@
 # 👨‍💻 @sharpleynate
 
-**`Information Technology Undergrad`**
+**`Information Technology Undergraduate | Cybersecurity & Cloud Security`**
 
-Find me on TikTok for the latest in cybersecurity news. "[ai.mentality][tiktok]"
+I'm an IT professional and Information Technology undergraduate building hands-on experience across cybersecurity, SOC operations, cloud security, and infrastructure.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@sharpleynate?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCpus-LD3MmBeX48MvYUrndQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@sharpleynate">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCpus-LD3MmBeX48MvYUrndQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/sharpleynate?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sharpleynate?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/sharpleynate?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sharpleynate?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+My work focuses on practical labs involving **Active Directory, Splunk SIEM, security monitoring, Microsoft Azure, automation, and incident investigation**. I use this GitHub to document projects, troubleshooting, and the technical skills I'm building along the way.
+
+<p align="left">
+  <a href="https://www.youtube.com/@sharpleynate?sub_confirmation=1">
+    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCpus-LD3MmBeX48MvYUrndQ?style=for-the-badge&logo=youtube&logoColor=white&label=SUBSCRIBERS"/>
+  </a>
+  <a href="https://www.youtube.com/@sharpleynate">
+    <img alt="YouTube Views" title="YouTube channel" src="https://img.shields.io/badge/YouTube-@sharpleynate-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sharpleynate?tab=followers">
+    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/sharpleynate?style=for-the-badge&logo=github&label=FOLLOW"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sharpleynate/">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-sharpleynate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛡️ Cybersecurity Focus
+
+- SOC operations and security monitoring
+- SIEM detection and log analysis
+- Active Directory security
+- Microsoft Azure and cloud security
+- Incident investigation and response
+- Security automation and scripting
+- Endpoint and network telemetry
+
+---
+
+### 🔬 Featured Project
+
+#### Active Directory SOC Lab
+
+Enterprise style SOC lab using **Active Directory, Splunk SIEM, Shuffle SOAR, and Slack** for threat detection, alerting, and analyst review.
+
+The lab includes:
+
+- Active Directory domain infrastructure
+- Windows Security event collection
+- Splunk Universal Forwarders
+- Centralized SIEM ingestion
+- Event ID `4624` authentication detection
+- Splunk alerting
+- Shuffle SOAR webhook processing
+- Structured Slack security notifications
+- Email based analyst approval and rejection
+
+➡️ [View the Active Directory SOC Lab](https://github.com/sharpleynate/Active-Directory-2.0)
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<p align="left">
+  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="PowerShell" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 
-#
+---
 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![CompTIA Network+ | EP. 09 | Study Session | CopyrightFreeMusic](https://ytcards.demolab.com/?id=Mqo-chHBnjA&title=CompTIA+Network%2B+%7C+EP.+09+%7C+Study+Session+%7C+CopyrightFreeMusic&lang=en&timestamp=1735668661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Network+ | EP. 09 | Study Session | CopyrightFreeMusic")](https://www.youtube.com/watch?v=Mqo-chHBnjA)
-[![CompTIA Network+ | EP. 08 | Study Session | CopyrightFreeMusic](https://ytcards.demolab.com/?id=FtOe-j1BEjk&title=CompTIA+Network%2B+%7C+EP.+08+%7C+Study+Session+%7C+CopyrightFreeMusic&lang=en&timestamp=1735583379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Network+ | EP. 08 | Study Session | CopyrightFreeMusic")](https://www.youtube.com/watch?v=FtOe-j1BEjk)
-[![CompTIA Network+ | EP. 07 | Study Session | No Sound](https://ytcards.demolab.com/?id=HUYERgSrRNQ&title=CompTIA+Network%2B+%7C+EP.+07+%7C+Study+Session+%7C+No+Sound&lang=en&timestamp=1735486608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Network+ | EP. 07 | Study Session | No Sound")](https://www.youtube.com/watch?v=HUYERgSrRNQ)
-[![CompTIA Network+ | EP. 06 | Study Session | No Sound](https://ytcards.demolab.com/?id=qj3IXleq0rA&title=CompTIA+Network%2B+%7C+EP.+06+%7C+Study+Session+%7C+No+Sound&lang=en&timestamp=1735323137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Network+ | EP. 06 | Study Session | No Sound")](https://www.youtube.com/watch?v=qj3IXleq0rA)
-[![CompTIA Network+ | EP. 05 | Study Session | No Sound](https://ytcards.demolab.com/?id=gAQkb0AaR7U&title=CompTIA+Network%2B+%7C+EP.+05+%7C+Study+Session+%7C+No+Sound&lang=en&timestamp=1735313534&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Network+ | EP. 05 | Study Session | No Sound")](https://www.youtube.com/watch?v=gAQkb0AaR7U)
-[![CompTIA Network+ | EP. 04 | Study Session | No Sound](https://ytcards.demolab.com/?id=clEunm8DEGM&title=CompTIA+Network%2B+%7C+EP.+04+%7C+Study+Session+%7C+No+Sound&lang=en&timestamp=1735057710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CompTIA Network+ | EP. 04 | Study Session | No Sound")](https://www.youtube.com/watch?v=clEunm8DEGM)
+[![CompTIA Network+ | EP. 09 | Study Session | CopyrightFreeMusic](https://ytcards.demolab.com/?id=Mqo-chHBnjA&title=CompTIA+Network%2B+%7C+EP.+09+%7C+Study+Session+%7C+CopyrightFreeMusic&lang=en&timestamp=1735668661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=Mqo-chHBnjA)
+[![CompTIA Network+ | EP. 08 | Study Session | CopyrightFreeMusic](https://ytcards.demolab.com/?id=FtOe-j1BEjk&title=CompTIA+Network%2B+%7C+EP.+08+%7C+Study+Session+%7C+CopyrightFreeMusic&lang=en&timestamp=1735583379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=FtOe-j1BEjk)
+[![CompTIA Network+ | EP. 07 | Study Session | No Sound](https://ytcards.demolab.com/?id=HUYERgSrRNQ&title=CompTIA+Network%2B+%7C+EP.+07+%7C+Study+Session+%7C+No+Sound&lang=en&timestamp=1735486608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=HUYERgSrRNQ)
+[![CompTIA Network+ | EP. 06 | Study Session | No Sound](https://ytcards.demolab.com/?id=qj3IXleq0rA&title=CompTIA+Network%2B+%7C+EP.+06+%7C+Study+Session+%7C+No+Sound&lang=en&timestamp=1735323137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=qj3IXleq0rA)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://www.youtube.com/c/sharpleynate?sub_confirmation=1](https://www.youtube.com/channel/UCpus-LD3MmBeX48MvYUrndQ))
+<a href="https://www.youtube.com/@sharpleynate?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/Subscribe_For_More-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
+</a>
 
-#
+---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpleynate&show_icons=true&theme=gruvbox)
+![Nate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharpleynate&show_icons=true&theme=gruvbox&hide_border=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+---
 
-#
+### 🔗 Connect With Me
 
-[website]: https://sharpleynate.com
-[youtube]: https://youtube.com/sharpleynate
-[tiktok]: https://www.tiktok.com/@ai.mentality
-[linkedin]: https://www.linkedin.com/in/sharpleynate/
+[Website](https://sharpleynate.com) •
+[YouTube](https://www.youtube.com/@sharpleynate) •
+[LinkedIn](https://www.linkedin.com/in/sharpleynate/) •
+[TikTok](https://www.tiktok.com/@ai.mentality)
