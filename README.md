@@ -22,28 +22,6 @@ My work focuses on practical projects involving **Active Directory, Splunk SIEM,
 
 ---
 
-### 🔬 Featured Project
-
-#### Active Directory SOC Lab
-
-Enterprise style SOC lab using **Active Directory, Splunk SIEM, Shuffle SOAR, and Slack** for threat detection, alerting, and analyst review.
-
-The lab includes:
-
-- Active Directory domain infrastructure
-- Windows Security event collection
-- Splunk Universal Forwarders
-- Centralized SIEM ingestion
-- Event ID `4624` authentication detection
-- Splunk alerting
-- Shuffle SOAR webhook processing
-- Structured Slack security notifications
-- Email based analyst approval and rejection
-
-➡️ [View the Active Directory SOC Lab](https://github.com/sharpleynate/Active-Directory-2.0)
-
----
-
 ### 🧰 Tools & Technologies
 
 **Security & Monitoring**
