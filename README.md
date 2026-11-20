@@ -79,4 +79,4 @@ Currently focused on strengthening my skills in:
 
 ### 🔗 Connect
 
-[Website](https://sharpleynate.com) • [LinkedIn](https://www.linkedin.com/in/sharpleynate/) • [YouTube](https://www.youtube.com/@sharpleynate) • [TikTok](https://www.tiktok.com/@ai.mentality)
+[Website](https://sharpleynate.com) •  [LinkedIn](https://www.linkedin.com/in/sharpleynate/) •  [YouTube](https://www.youtube.com/@sharpleynate) •  [TikTok](https://www.tiktok.com/@ai.mentality)
